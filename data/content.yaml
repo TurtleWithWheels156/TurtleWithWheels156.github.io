@@ -44,42 +44,9 @@ Experience:
 
         Badges: ['C++', 'Qt', 'Python', 'Docker']
 
-# - Employer: LGS Innovations
-#   Place: Floram Park, NJ
-#   Positions:
-#     - Title: Cyber Security Research Intern
-#       Date: May - Aug 2015
-#       Details:
-#         - Researched feasibility of fingerprinting IoT network data from encrypted traffic using Python based, open-source tool called Pacumen
-#         - Used Python library, Scapy, and Wireshark to examine and modify information in packet capture files for anti-fingerprinting
-#       Badges: ['Python', 'Networking']
-
-# - Employer: NASA Jet Propulsion Lab (JPL)
-#   Place: Pasadena, CA
-#   Positions:
-#     - Title: Radar Science Summer Intern
-#       Date: May - Aug 2014
-#       Details:
-#         - Analyzed simulated SAPHIR RADAR data using MatLab to determine rainfall rate within cloud formations
-#         - Developed classifier for rainy sky using Principal Component Analysis
-#       Badges: ['MatLab', 'Data Visualization']
+# - Employer:
 
 # Awards:
-#   - Title: On Tech Pillar for RTP Early Talent Employee Resource Group
-#     Details:
-#       - Collected data about Resource Group given members's event attendence data and LDAP
-#       - Constructed visualizations with Metabase to display metrics about demographics of New Hires (common Organizations/Job Titles, Year they joined Cisco, What State they live in, etc.)
-#     Date: Aug 2020
-
-#   - Title: GEM Fellowship
-#     Details:
-#       - I received this fellowship through the National GEM Consortium. This fellowship covered tuition, fees and housing for the duration of my Master's program at North Carolina State University.
-#     Date: Jun 2016
-
-#   - Title: Dowdy Scholarship
-#     Details:
-#       - This scholarship covered tuition, fees and housing during my stay at A&T State University. To keep the scholarship I had to maintain over a 3.30 cumulative GPA.
-#     Date: Apr 2012
 
 Education:
   - Course: Dual BS in Computer/Electrical Engineering
