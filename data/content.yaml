@@ -22,9 +22,9 @@ Experience:
     Place: Raleigh, NC
     Positions:
       - Title: Software Engineer (RoomOS Product Line)
-        Date: Jan 2020 - Present
+        Date: Dec 2020 - Present
         Details:
-          - MFocused primarily on code running in Webex Deskhub.
+          - Focused primarily on code running in Webex Deskhub.
           - Implemented UX in QML for join-meeting flows.
           - Designed and implemented APIs to interface between GUI and underlying device services.
           - Implemented drivers to enable integration with Webex cloud services.
@@ -33,7 +33,7 @@ Experience:
         Badges: ['C++', 'Qt']
 
       - Title: Software Engineer (Webex Share)
-        Date: July 2017 - Jan 2020
+        Date: July 2017 - Dec 2020
         Details:
           - Developer responsibilities include extending existing drivers’ integration to Webex cloud services.
           - Created connections in GRPC to interface device services with the GUIs.
@@ -82,7 +82,7 @@ Experience:
 #     Date: Apr 2012
 
 Education:
-  - Course: Dual BS of Computer/Electrical Engineering
+  - Course: Dual BS in Computer/Electrical Engineering
     School: North Carolina State University
     Place: Raleigh NC
     Date: May 2017
@@ -118,6 +118,7 @@ Skills:
 
 Interests:
   - Baking
-  - Music Production
   - Crafting
+  - Music
+  - 3D Modeling
   - Fitness
